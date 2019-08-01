@@ -1,5 +1,6 @@
 # File-Sorter
 A simple tkinter GUI that lets you sort files into Music, Videos, Documents, Photos, Programs, Compressed and Miscellaneous.
+
 ![Alt Text](https://github.com/starter-coder/File-Sorter/blob/master/images/file_sorter.png)
 ## Usage
 Its pretty easy to use.
