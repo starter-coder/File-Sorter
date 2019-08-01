@@ -1,5 +1,5 @@
 # File-Sorter
-![Alt Text](https://github.com/starter-coder/File-Sorter/blob/master/images/file-sorter.png)
+![Alt Text](https://github.com/starter-coder/File-Sorter/blob/master/images/file_sorter.png)
 ## Description
 A simple tkinter GUI that lets you sort files into Music, Videos, Documents, Photos, Programs, Compressed and Miscellaneous.
 ## Usage
