@@ -232,6 +232,7 @@ if __name__ == "__main__":
     gui = Tk()
     gui.title("File Sorter")
     gui.geometry("600x300")
-    gui.resizable(FALSE, FALSE)
+    # Commented as on MAC, the gui doesnt come up as expected. MAC users will be able to resize gui.
+    # gui.resizable(FALSE, FALSE)
     app = SortingGUI(gui)
     gui.mainloop()
