@@ -12,3 +12,5 @@ Its pretty easy to use.
 ## Installation
 * Download both files sorting_gui.py and move_files.py in the same folder.
 * Run sorting_gui.py
+## Widows vs MAC Issue
+The gui comes up as usual on windows but when run on MAC, it doesnt come up as expected.
